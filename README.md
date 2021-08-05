@@ -15,6 +15,7 @@ dnf -y install libtool wxGTK3-devel  compat-wxGTK3-gtk2 xterm
 #Package libtool-2.4.6-25.el8.x86_64 is already installed.
 #Package wxGTK3-devel-3.0.4-11.el8.x86_64 is already installed.
 #Package compat-wxGTK3-gtk2-3.0.4-11.el8.x86_64 is already installed.
+#Package xterm-331-1.el8_3.2.x86_64 is already installed
 #rm -f /var/lib/rpm/__db*
 
 #wx-config
