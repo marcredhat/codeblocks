@@ -27,6 +27,8 @@ echo `wx-config --prefix`/share/aclocal >> /usr/share/aclocal/dirlist
 
 ```bash
 dnf -y group install "Development Tools"
+g++ --version
+#g++ (GCC) 8.4.1 20200928 (Red Hat 8.4.1-1)
 ```
 
 
@@ -38,6 +40,6 @@ dnf -y group install "Development Tools"
 ```
 
 ```bash
-codeblocks
+./codeblocks
 ```
 
