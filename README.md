@@ -40,6 +40,6 @@ g++ --version
 ```
 
 ```bash
-./codeblocks
+codeblocks
 ```
 
