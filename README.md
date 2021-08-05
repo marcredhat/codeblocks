@@ -33,8 +33,8 @@ dnf -y group install "Development Tools"
 ```bash
 ./bootstrap
 ./configure
-make
-make install
+./make
+./make install
 ```
 
 ```bash
